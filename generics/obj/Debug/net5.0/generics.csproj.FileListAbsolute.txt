@@ -1,0 +1,16 @@
+C:\Users\mxthe\source\repos\generics\generics\bin\Debug\net5.0\generics.exe
+C:\Users\mxthe\source\repos\generics\generics\bin\Debug\net5.0\generics.deps.json
+C:\Users\mxthe\source\repos\generics\generics\bin\Debug\net5.0\generics.runtimeconfig.json
+C:\Users\mxthe\source\repos\generics\generics\bin\Debug\net5.0\generics.runtimeconfig.dev.json
+C:\Users\mxthe\source\repos\generics\generics\bin\Debug\net5.0\generics.dll
+C:\Users\mxthe\source\repos\generics\generics\bin\Debug\net5.0\ref\generics.dll
+C:\Users\mxthe\source\repos\generics\generics\bin\Debug\net5.0\generics.pdb
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\generics.csproj.AssemblyReference.cache
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\generics.AssemblyInfoInputs.cache
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\generics.AssemblyInfo.cs
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\generics.csproj.CoreCompileInputs.cache
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\generics.dll
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\ref\generics.dll
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\generics.pdb
+C:\Users\mxthe\source\repos\generics\generics\obj\Debug\net5.0\generics.genruntimeconfig.cache
